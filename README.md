@@ -1,6 +1,6 @@
-### <center> Hi there, I'm Ran 👋 </center>
-
 <div align="center">
+ ### <center> Hi there, I'm Ran 👋 </center>
+  
 <div> ✨ I'm a full stack developer with a preference in frontend ✨ </div>
   
 <img src="./1.gif">
