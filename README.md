@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**wwren/wwren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img src="./1.gif">
 
-Here are some ideas to get you started:
+✨ I'm a full stack developer with a preference in frontend ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+</div>
+
+- 😄 Pronouns: She/Her
+- 🔭 I’m currently studying CompSci part-time with UniMelb
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about career transition from finance to programming
+- :purple_heart: I love playing tennis :tennis: and reading novels :books: to relax
+- 📫 How to reach me
+
+  <a href="https://www.instagram.com/ranwren/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.linkedin.com/in/ding-ran/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
