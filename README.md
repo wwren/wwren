@@ -1,5 +1,5 @@
 <div align="center">
- ### <center> Hi there, I'm Ran 👋 </center>
+ ### Hi there, I'm Ran 👋
   
 <div> ✨ I'm a full stack developer with a preference in frontend ✨ </div>
   
