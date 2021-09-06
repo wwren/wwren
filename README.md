@@ -7,9 +7,13 @@
 ---
 
 😄 Pronouns: She/Her
+  
 🌱 I’m currently learning AWS
+  
 🔭 I’m studying CompSci part-time with UniMelb and graduated with 1st Class Honors in Econ from ANU
+  
 💬 Ask me about career transition from finance to programming
+  
 :purple_heart: I love playing tennis :tennis: and reading novels :books:
 
 ---
