@@ -2,6 +2,7 @@
 
 <div align="center">
 ✨ I'm a full stack developer with a preference in frontend ✨
+  
 <img src="./1.gif">
 
 ---
