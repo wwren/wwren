@@ -10,7 +10,7 @@
 
 😄 Pronouns: She/Her
   
-🌱 I’m currently learning advanced JavaScript & React, AWS, UI/UX
+🌱 I’m currently learning advanced JavaScript & React, AWS, UX/UI design, etc.
   
 🔭 I’m studying CompSci part-time with UniMelb and graduated with 1st class Honors in Econ from ANU
   
