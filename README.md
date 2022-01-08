@@ -2,7 +2,7 @@
  
 ### Hi there, I'm Ran 👋
   
-<div> ✨ I'm a full stack developer with a preference in frontend ✨ </div>
+<div> ✨ I'm a full stack developer with a passion in frontend ✨ </div>
   
 <img src="./1.gif">
 
@@ -10,7 +10,7 @@
 
 😄 Pronouns: She/Her
   
-🌱 I’m currently learning AWS
+🌱 I’m currently learning advanced JavaScript & React, AWS, UI/UX
   
 🔭 I’m studying CompSci part-time with UniMelb and graduated with 1st class Honors in Econ from ANU
   
