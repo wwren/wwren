@@ -11,10 +11,6 @@
 😄 Pronouns: She/Her
   
 💫 I thrive to become an expert in JavaScript, React & Node.js
-
-🌱 I want to broaden my knowledge base in AWS, UX/UI design, SVG & scrolling animation
- 
-🤔 I’m looking for help with joining open source community
   
 🔭 I’m studying CompSci part-time with UniMelb and graduated with 1st class Honors in Econ from ANU
   
