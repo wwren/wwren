@@ -7,8 +7,6 @@
 <img src="./1.gif">
 
 ---
-
-😄 Pronouns: She/Her
   
 💫 I thrive to become an expert in JavaScript, React & Node.js
   
