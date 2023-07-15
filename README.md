@@ -1,8 +1,9 @@
 <div align="center">
  
-### Hi there, I'm Ran 👋
+<h1>Hi there, I'm Ran 👋 </h1> 
   
-<div> ✨ A full stack developer with a passion in frontend ✨ </div>
+<p> ✨ A full stack developer with a passion in frontend ✨ </p>
+<p> ✨ Now with more years of experience, I have started to appreciate the backend more and also fall in love with it ✨ </p>
   
 <img src="./1.gif">
 
